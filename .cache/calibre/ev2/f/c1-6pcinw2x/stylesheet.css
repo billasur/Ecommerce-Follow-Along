@@ -1,0 +1,437 @@
+@charset "UTF-8";
+.aboutauthortext {
+    display: block;
+    font-size: 0.77419em;
+    font-style: normal;
+    font-weight: normal;
+    text-align: justify;
+    text-indent: 0%;
+    margin: 0% 0 10px
+    }
+.bibliographyentry {
+    display: block;
+    font-size: 0.77419em;
+    text-align: justify;
+    text-indent: -18px;
+    margin: 0% 0 2px 25px
+    }
+.bold {
+    display: inline;
+    font-style: inherit;
+    font-weight: bold;
+    line-height: 1.2
+    }
+.bold1 {
+    display: inline;
+    font-style: inherit;
+    font-weight: bold
+    }
+.bulletlist {
+    display: block;
+    line-height: 1.2;
+    list-style-type: disc;
+    margin-bottom: 1.3em;
+    margin-right: 2%;
+    margin-top: 1.3em
+    }
+.calibre {
+    display: block;
+    font-size: 1.29167em;
+    line-height: 1.2;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    height: auto;
+    line-height: 1.2;
+    width: auto
+    }
+.calibre2 {
+    display: block;
+    line-height: 1.2
+    }
+.calibre3 {
+    color: blue;
+    line-height: 1.2;
+    text-decoration: none
+    }
+.calibre4 {
+    font-style: italic;
+    line-height: 1.2
+    }
+.calibre5 {
+    font-size: 0.75em;
+    line-height: 1.2;
+    vertical-align: 3px
+    }
+.calibre6 {
+    color: gray;
+    display: block;
+    height: 2px;
+    line-height: 1.2;
+    margin: 0.5em auto;
+    border: currentColor inset 1px
+    }
+.calibre7 {
+    font-size: 1em
+    }
+.calibre8 {
+    color: blue;
+    text-decoration: none
+    }
+.caption {
+    display: block;
+    font-size: 0.77419em;
+    text-align: center;
+    text-indent: 0%;
+    margin: 0% 0 5%
+    }
+.centerimage {
+    display: block;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0%;
+    margin: 3% 0
+    }
+.chapterbyline {
+    display: block;
+    font-size: 0.77419em;
+    font-style: normal;
+    font-weight: normal;
+    text-align: right;
+    text-indent: 0%;
+    margin: 1.5em 0 1em
+    }
+.chapterepigraph {
+    display: block;
+    line-height: 1.2;
+    margin-bottom: 2em;
+    margin-top: 0%
+    }
+.chapterepigraphsource {
+    display: block;
+    font-size: 0.77419em;
+    text-align: center;
+    text-indent: 0%;
+    margin: 0%
+    }
+.chapterepigraphsource1 {
+    display: block;
+    font-style: normal;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0%;
+    margin: 0%
+    }
+.chapterepigraphtext {
+    display: block;
+    font-size: 0.77419em;
+    text-align: center;
+    text-indent: 0%;
+    margin: 0% 0
+    }
+.chapterheada {
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0%;
+    margin: 1.5em 0 5px
+    }
+.chapterheadb {
+    display: block;
+    font-size: 0.77419em;
+    text-align: center;
+    text-indent: 0%;
+    margin: 1.5em 0 5px
+    }
+.chapternumber {
+    display: block;
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-indent: 0%;
+    margin: 80px 0 15px
+    }
+.chapteropenertext {
+    display: block;
+    font-size: 0.77419em;
+    text-align: justify;
+    text-indent: 0%;
+    margin: 0% 0
+    }
+.chaptersubtitle {
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    text-indent: 0%;
+    margin: 0% 0 30px
+    }
+.chaptertitle {
+    display: block;
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-indent: 0%;
+    margin: 80px 0 60px
+    }
+.chaptertitle1 {
+    display: block;
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-indent: 0%;
+    margin: 0% 0 60px
+    }
+.chaptertitle2 {
+    display: block;
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-indent: 0%;
+    margin: 0% 0 20px
+    }
+.colophon {
+    display: block;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0%;
+    margin: 0% 0 1em
+    }
+.contentsentry {
+    display: block;
+    line-height: 1.2;
+    margin-bottom: 0%;
+    margin-left: 0%;
+    margin-top: 0%;
+    text-indent: 0%
+    }
+.contentsentrynumber {
+    display: block;
+    font-size: 0.77419em;
+    text-indent: 0%;
+    margin: 0% 0 2px 0%
+    }
+.copyrighttext {
+    display: block;
+    font-size: 0.77419em;
+    font-weight: normal;
+    text-indent: 0%;
+    margin: 0 0 10px
+    }
+.copyrighttext1 {
+    display: block;
+    font-size: 0.77419em;
+    font-weight: normal;
+    text-indent: 18px;
+    margin: 0% 0 0% 18px
+    }
+.copyrighttext2 {
+    display: block;
+    font-size: 0.77419em;
+    font-weight: normal;
+    text-indent: 0%;
+    margin: 0% 0 0% 18px
+    }
+.copyrighttext3 {
+    display: block;
+    font-size: 0.77419em;
+    font-weight: normal;
+    text-indent: 0%;
+    margin: 0% 0 0% 55px
+    }
+.copyrighttext4 {
+    display: block;
+    font-size: 0.77419em;
+    font-weight: normal;
+    text-indent: 0%;
+    margin: 0% 0 0% 85%
+    }
+.copyrighttext5 {
+    display: block;
+    font-size: 0.77419em;
+    font-weight: normal;
+    text-indent: 0%;
+    margin: 0% 0 0% 87%
+    }
+.dedicationpage {
+    display: block;
+    line-height: 1.2;
+    margin-top: 10%
+    }
+.dedicationtext {
+    display: block;
+    font-size: 0.77419em;
+    font-weight: normal;
+    text-align: center;
+    text-indent: 0%;
+    margin: 0% 0
+    }
+.dropcap {
+    font-size: 1.29167em;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 1.2
+    }
+.extract {
+    display: block;
+    line-height: 1.2;
+    margin-bottom: 1.5em;
+    margin-top: 1.5em
+    }
+.extractletter {
+    display: block;
+    line-height: 1.2;
+    text-indent: 0%;
+    margin: 1.3em 0%
+    }
+.extractlettersignature {
+    display: block;
+    font-size: 0.77419em;
+    text-align: right;
+    text-indent: 0%;
+    margin: 0% 0
+    }
+.indexentry {
+    display: block;
+    font-size: 0.77419em;
+    font-weight: normal;
+    text-indent: 0%;
+    margin: 0% 0
+    }
+.indexitem {
+    display: block;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 0%;
+    margin-left: 35;
+    margin-top: 0%;
+    text-indent: 18px
+    }
+.italic {
+    display: inline;
+    font-style: italic;
+    font-weight: inherit;
+    line-height: 1.2
+    }
+.italic1 {
+    display: inline;
+    font-style: italic;
+    font-weight: inherit
+    }
+.listitem {
+    display: list-item;
+    font-size: 0.77419em;
+    margin-bottom: 5px;
+    margin-top: 0%
+    }
+.para {
+    display: block;
+    font-size: 0.77419em;
+    text-align: justify;
+    text-indent: 18px;
+    margin: 0% 0
+    }
+.para1 {
+    display: block;
+    font-size: 0.77419em;
+    text-align: justify;
+    text-indent: 18px;
+    margin: 0% 0 0
+    }
+.paracenter {
+    display: block;
+    font-size: 0.77419em;
+    text-align: center;
+    text-indent: 0%;
+    margin: 3% 0 1em
+    }
+.paracenter1 {
+    display: block;
+    font-size: 0.77419em;
+    text-align: center;
+    text-indent: 0%;
+    margin: 3% 0 0%
+    }
+.smallcaps {
+    font-size: 0.75em
+    }
+.smallcaps1 {
+    font-size: 0.58065em
+    }
+.smallcaps2 {
+    font-size: 0.77419em
+    }
+.titlepage {
+    display: block;
+    line-height: 1.2;
+    margin-top: 0%
+    }
+.titlepageauthor {
+    display: block;
+    font-size: 1.29032em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0%;
+    margin: 5px 0 100px
+    }
+.titlepagesubtitle {
+    display: block;
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0%;
+    margin: 1em 0 130px
+    }
+.titlepagetitle {
+    display: block;
+    font-size: 1.54839em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0%;
+    margin: 80px 0 35px
+    }
+.x3about-the-publisher {
+    display: block;
+    font-family: "Times";
+    font-size: 0.77419em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0;
+    margin: 0
+    }
+.x3about-the-publisher-a {
+    display: block;
+    font-family: "Times";
+    font-size: 0.77419em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0;
+    margin: 1.42em 0 0
+    }
+.x3about-the-publisher-ttl {
+    display: block;
+    font-family: "Times";
+    font-size: 1em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0;
+    margin: 4em 0 1.5em
+    }
+.xrefinternal {
+    line-height: 1.2
+    }

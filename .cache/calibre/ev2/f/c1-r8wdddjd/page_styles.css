@@ -1,0 +1,9 @@
+@charset "UTF-8";
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    font-family: CharisSILR;
+    src: url(fonts/00001.ttf)
+    }

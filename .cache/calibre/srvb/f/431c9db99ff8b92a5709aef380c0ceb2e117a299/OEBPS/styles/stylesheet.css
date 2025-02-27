@@ -1,0 +1,838 @@
+@charset "UTF-8";
+body.cover {
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	text-align: center;
+	background-color:#000000;
+}
+a{
+	text-decoration: none;
+	display: inline;
+}
+@page {
+	margin: 5pt;
+}
+div.cover {
+	text-align: center;
+}
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+/* added styles by EK*/
+li {
+	list-style-type:none;
+}
+body {
+	line-height: 1.25;
+}
+p.BL {
+	font-size:0.95em;
+	font-style:normal;
+	font-weight:normal;
+	margin-bottom:0em;
+	margin-left:2.4em;
+	margin-right:1.4em;
+	margin-top:0em;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:-1em;
+}
+h1.BMH {
+	font-size:1.417em;
+	font-style:normal;
+	font-weight:normal;
+	margin-bottom:3em;
+	margin-left:0em;
+	margin-right:0em;
+	margin-top:3em;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.BMTNI {
+	font-size:0.95em;
+	font-style:normal;
+	font-weight:normal;
+	margin-bottom:0em;
+	margin-left:1.4em;
+	margin-right:0em;
+	margin-top:0em;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:-1.4em;
+}
+p.CALL {
+	font-size:0.95em;
+	font-style:normal;
+	font-weight:normal;
+	margin-bottom:17px;
+	margin-left:0em;
+	margin-right:0em;
+	margin-top:17px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0em;
+}
+h1.CN {
+	font-size:1.25em;
+	font-style:normal;
+	font-weight:normal;
+	margin-bottom:17px;
+	margin-left:0em;
+	margin-right:0em;
+	margin-top:3em;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.CO {
+	font-size:0.95em;
+	font-style:normal;
+	font-weight:normal;
+	margin-bottom:0em;
+	margin-left:0em;
+	margin-right:0em;
+	margin-top:0em;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.COS {
+	font-size:0.95em;
+	font-style:normal;
+	font-weight:normal;
+	margin-bottom:1em;
+	margin-left:0em;
+	margin-right:0em;
+	margin-top:0em;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.CST {
+	font-size:1em;
+	font-style:normal;
+	font-weight:normal;
+	margin-bottom:3em;
+	margin-left:0em;
+	margin-right:0em;
+	margin-top:0em;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0em;
+}
+h1.CT {
+	font-size:1.417em;
+	font-style:normal;
+	font-weight:normal;
+	margin-bottom:3em;
+	margin-left:0em;
+	margin-right:0em;
+	margin-top:0em;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0em;
+}
+h1.CT1 {
+	font-size:1.417em;
+	font-style:normal;
+	font-weight:normal;
+	margin-bottom:0.50em;
+	margin-left:0em;
+	margin-right:0em;
+	margin-top:0em;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.DOCTNI {
+	font-size:0.875em;
+	font-style:normal;
+	font-weight:normal;
+	margin-bottom:0em;
+	margin-left:0em;
+	margin-right:0em;
+	margin-top:0em;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.DOCTX {
+	font-size:0.95em;
+	font-style:normal;
+	font-weight:normal;
+	margin-bottom:0em;
+	margin-left:1.4em;
+	margin-right:0em;
+	margin-top:0em;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.EMEX {
+	font-size:0.858em;
+	font-style:normal;
+	font-weight:normal;
+	margin-bottom:0em;
+	margin-left:1.4em;
+	margin-right:1.4em;
+	margin-top:0em;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0em;
+}
+span.epub-sans {
+	font-family: sans-serif;
+}
+p.EMEXF {
+	font-size:0.858em;
+	font-style:normal;
+	font-weight:normal;
+	margin-bottom:0em;
+	margin-left:1.4em;
+	margin-right:1.4em;
+	margin-top:17px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.EX {
+	font-size:0.95em;
+	font-style:normal;
+	font-weight:normal;
+	margin-bottom:0em;
+	margin-left:1.4em;
+	margin-right:1.4em;
+	margin-top:0em;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.EXUL {
+	font-size:0.95em;
+	font-style:normal;
+	font-weight:normal;
+	margin-bottom:0em;
+	margin-left:1.4em;
+	margin-right:1.4em;
+	margin-top:0em;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.EXULF {
+	font-size:0.95em;
+	font-style:normal;
+	font-weight:normal;
+	margin-bottom:0em;
+	margin-left:1.4em;
+	margin-right:1.4em;
+	margin-top:17px;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0em;
+}
+h1.FMH {
+	font-size:1.417em;
+	font-style:normal;
+	font-weight:normal;
+	margin-bottom:3em;
+	margin-left:0em;
+	margin-right:0em;
+	margin-top:3em;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0em;
+}
+h1.FMH1 {
+	font-size:1.417em;
+	font-style:normal;
+	font-weight:normal;
+	margin-bottom:0.50em;
+	margin-left:0em;
+	margin-right:0em;
+	margin-top:3em;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0em;
+}
+h2.H1 {
+	font-size:1.042em;
+	font-style:normal;
+	font-weight:normal;
+	margin-bottom:8px;
+	margin-left:0em;
+	margin-right:0em;
+	margin-top:25px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0em;
+}
+h2.H1F {
+	font-size:1.042em;
+	font-style:normal;
+	font-weight:normal;
+	margin-bottom:8px;
+	margin-left:0em;
+	margin-right:0em;
+	margin-top:0em;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0em;
+}
+h3.H2 {
+	font-size:0.858em;
+	font-style:normal;
+	font-weight:normal;
+	margin-bottom:0em;
+	margin-left:0em;
+	margin-right:0em;
+	margin-top:17px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0em;
+}
+h3.H2F {
+	font-size:0.858em;
+	font-style:normal;
+	font-weight:normal;
+	margin-bottom:0em;
+	margin-left:0em;
+	margin-right:0em;
+	margin-top:0em;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0em;
+}
+h4.H3 {
+	font-size:0.792em;
+	font-style:normal;
+	font-weight:normal;
+	margin-bottom:0em;
+	margin-left:0em;
+	margin-right:0em;
+	margin-top:17px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0em;
+}
+h4.H3F {
+	font-size:0.792em;
+	font-style:normal;
+	font-weight:normal;
+	margin-bottom:0em;
+	margin-left:0em;
+	margin-right:0em;
+	margin-top:0em;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0em;
+}
+h5.H4 {
+	font-size:0.833em;
+	font-style:normal;
+	font-weight:normal;
+	margin-bottom:0em;
+	margin-left:0em;
+	margin-right:0em;
+	margin-top:17px;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:1.4em;
+}
+h5.H4F {
+	font-size:0.833em;
+	font-style:normal;
+	font-weight:normal;
+	margin-bottom:0em;
+	margin-left:0em;
+	margin-right:0em;
+	margin-top:0em;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:1.4em;
+}
+p.NL {
+	font-size:0.95em;
+	font-style:normal;
+	font-weight:normal;
+	margin-bottom:0em;
+	margin-left:1.9em;
+	margin-right:0em;
+	margin-top:0em;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:-1.9em;
+}
+p.NLF {
+	font-size:0.95em;
+	font-style:normal;
+	font-weight:normal;
+	margin-bottom:0em;
+	margin-left:1.50em;
+	margin-right:0em;
+	margin-top:17px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-1.80em;
+}
+p.STX {
+	font-size:0.95em;
+	font-style:normal;
+	font-weight:normal;
+	margin-bottom:0em;
+	margin-left:0em;
+	margin-right:0em;
+	margin-top:17px;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:1.4em;
+}
+p.TNI {
+	font-size:0.95em;
+	font-style:normal;
+	font-weight:normal;
+	margin-bottom:0em;
+	margin-left:0em;
+	margin-right:0em;
+	margin-top:0em;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.TX {
+	font-size:0.95em;
+	font-style:normal;
+	font-weight:normal;
+	margin-bottom:0em;
+	margin-left:0em;
+	margin-right:0em;
+	margin-top:0em;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:1.4em;
+}
+p.TXS {
+	font-size:0.95em;
+	font-style:normal;
+	font-weight:normal;
+	margin-bottom:17px;
+	margin-left:0em;
+	margin-right:0em;
+	margin-top:0em;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:1.4em;
+}
+p.UL {
+	font-size:0.95em;
+	font-style:normal;
+	font-weight:normal;
+	margin-bottom:0em;
+	margin-left:1.25em;
+	margin-right:0em;
+	margin-top:0em;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.ULTX {
+	font-size:0.95em;
+	font-style:normal;
+	font-weight:normal;
+	margin-bottom:0em;
+	margin-left:0em;
+	margin-right:0em;
+	margin-top:0em;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.ULTXF {
+	font-size:0.95em;
+	font-style:normal;
+	font-weight:normal;
+	margin-bottom:0em;
+	margin-left:0em;
+	margin-right:0em;
+	margin-top:17px;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0em;
+}
+span.accent {
+	font-style:normal;
+	font-weight:normal;
+}
+span.h1_accent {
+	font-style:normal;
+	font-weight:normal;
+}
+span.emex_symbol {
+	font-style:normal;
+	font-weight:bold;
+}
+span.ex_symbol {
+	font-style:normal;
+	font-weight:bold;
+}
+span.symbol {
+	font-style:normal;
+	font-weight:bold;
+}
+li.CBMH {
+	font-size:0.95em;
+	font-style:normal;
+	font-weight:normal;
+	margin-bottom:0.25em;
+	margin-left:1em;
+	margin-right:0em;
+	margin-top:0em;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-1em;
+}
+li.CBMHF {
+	font-size:0.95em;
+	font-style:normal;
+	font-weight:normal;
+	margin-bottom:0.25em;
+	margin-left:1em;
+	margin-right:0em;
+	margin-top:1.50em;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-1em;
+}
+li.CCTF {
+	font-size:0.95em;
+	font-style:normal;
+	font-weight:normal;
+	margin-bottom:0.25em;
+	margin-left:1.50em;
+	margin-right:0em;
+	margin-top:1.50em;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-1.50em;
+}
+li.CCT {
+	font-size:0.95em;
+	font-style:normal;
+	font-weight:normal;
+	margin-bottom:0.25em;
+	margin-left:1.50em;
+	margin-right:0em;
+	margin-top:0em;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-1.50em;
+}
+li.CFMH {
+	font-size:0.95em;
+	font-style:normal;
+	font-weight:normal;
+	margin-bottom:0.25em;
+	margin-left:1em;
+	margin-right:0em;
+	margin-top:0em;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-1em;
+}
+p.AUSIG {
+	font-size:0.95em;
+	font-style:normal;
+	font-weight:normal;
+	margin-bottom:0em;
+	margin-left:0em;
+	margin-right:0em;
+	margin-top:1.50em;
+	text-align:right;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.FMCO {
+	font-size:0.95em;
+	font-style:normal;
+	font-weight:normal;
+	margin-bottom:0em;
+	margin-left:0em;
+	margin-right:0em;
+	margin-top:0em;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.FMSTNI {
+	font-size:0.95em;
+	font-style:normal;
+	font-weight:normal;
+	margin-bottom:0em;
+	margin-left:0em;
+	margin-right:0em;
+	margin-top:17px;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.FMTX {
+	font-size:0.95em;
+	font-style:normal;
+	font-weight:normal;
+	margin-bottom:0em;
+	margin-left:0em;
+	margin-right:0em;
+	margin-top:0em;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:1.4em;
+}
+p.FMSH {
+	font-size:1em;
+	font-style:normal;
+	font-weight:normal;
+	margin-bottom:3em;
+	margin-left:0em;
+	margin-right:0em;
+	margin-top:9px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0em;
+}
+span.fmtx_accent {
+	font-style:normal;
+	font-weight:normal;
+}
+li.IX {
+	font-size:0.808em;
+	font-style:normal;
+	font-weight:normal;
+	margin-bottom:0em;
+	margin-left:1.9em;
+	margin-right:0em;
+	margin-top:0em;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-1.9em;
+}
+li.IXA {
+	font-size:0.808em;
+	font-style:normal;
+	font-weight:normal;
+	margin-bottom:0em;
+	margin-left:0em;
+	margin-right:0em;
+	margin-top:14px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0em;
+}
+li.IXS {
+	font-size:0.808em;
+	font-style:normal;
+	font-weight:normal;
+	margin-bottom:0em;
+	margin-left:1.9em;
+	margin-right:0em;
+	margin-top:0em;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-1em;
+}
+span.ix_accent {
+	font-style:normal;
+	font-weight:normal;
+}
+p.CRT {
+	font-size:0.667em;
+	font-style:normal;
+	font-weight:normal;
+	margin-bottom:0em;
+	margin-left:0em;
+	margin-right:0em;
+	margin-top:0em;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.CRTF {
+	font-size:0.667em;
+	font-style:normal;
+	font-weight:normal;
+	margin-bottom:0em;
+	margin-left:0em;
+	margin-right:0em;
+	margin-top:13px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0em;
+}
+ul.ind {
+    padding : 0em;
+    margin : 0em;
+    list-style-type : none;
+}
+ul {
+    padding-left: 0em;
+    margin-left: 0em;
+}
+small {
+    font-size: 0.70em;
+}
+blockquote {
+    margin: 1.20em 0em 1.20em 0em;
+}
+sup {
+    vertical-align: super;
+    font-size: 0.65em;
+    vertical-align: 35%;
+}
+sub {
+    vertical-align: sub;
+    font-size: 0.65em;
+    vertical-align: -35%;
+}
+ol.toc {
+    padding : 0em;
+    margin : 0em;
+    list-style-type : none;
+}
+figure.TIT {
+	display: block;
+	margin-bottom: 0.00em;
+	margin-top: 0.00em;
+	text-indent: 0.00em;
+	margin-right: 0.00em;
+	margin-left: 0.00em;
+	text-align: center;
+}
+figure.IMG {
+	display: block;
+	margin-bottom: 1.00em;
+	margin-top: 1.00em;
+	text-indent: 0.00em;
+	margin-right: 0.00em;
+	margin-left: 0.00em;
+	text-align: center;
+}
+img.img90 {
+	width: 90%;
+}
+img.img60 {
+	width: 60%;
+}
+img.img50 {
+	width: 50%;
+}
+
+img.img40 {
+	width: 40%;
+}
+p.LINESPACE
+{
+	margin-bottom : 3em;
+}
+div.body {
+		margin: 0em 1.2em 0em 1.2em;
+	}
+
+
+p.fut_tit {
+	display: block;
+	text-align: center;
+	text-indent: 0em;
+	margin-top: 0em;
+	margin-bottom: 0em;
+	margin-left: 0em;
+	margin-right: 0em;
+}
+p.fut_toc {
+	font-weight: normal;
+	font-style: normal;
+	font-size: 0.90em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 0em;
+	text-align: center;
+	margin: 0em 0em 0em 0em;
+}
+p.fut_toc1 {
+	font-weight: normal;
+	font-style: normal;
+	font-size: 0.90em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 0em;
+	text-align: center;
+	margin: 0em 0em 1.50em 0em;
+}
+p.fut_logo {
+	font-weight: normal;
+	font-style: normal;
+	font-size: 1.31em;
+	text-decoration: none;
+	font-variant: normal;
+	text-indent: 0em;
+	text-align: center;
+	margin: 1.20em 0em 1.20em 0em;
+}
+img.epub {
+	display: inline;
+}
+img.sign-up {
+	display: none;
+}
+img.fb {
+	display: none;
+}
+
+@media amzn-kf8 {
+	div.body {
+		margin: 0em 0em 0em 0em;
+	}
+	body {
+		margin: 0em 1.2em 0em 1.2em;
+	}
+img.epub {
+	display: none;
+}
+img.sign-up {
+	width: 3.5em;
+	display: inline;
+}
+img.fb {
+	width: 1em;
+	display: inline;
+}
+}
+@media amzn-mobi {
+	div.body {
+		margin: 0em 0em 0em 0em;
+	}
+	body {
+		margin: 0em 1.2em 0em 1.2em;
+	}
+img.epub {
+	display: none;
+}
+img.sign-up {
+	width: 3.5em;
+	display: inline;
+}
+img.fb {
+	width: 1em;
+	display: inline;
+}
+sup {
+    vertical-align: super;
+    font-size: 0.65em;
+}
+sub {
+    vertical-align: sub;
+    font-size: 0.65em;
+}
+}

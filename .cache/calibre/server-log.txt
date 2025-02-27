@@ -1,0 +1,18 @@
+calibre server listening on [::]:8080
+OPDS feeds advertised via BonJour at: 192.168.29.30 port: 8080
+Failed login attempt from: ::1
+calibre server listening on [::]:8080
+OPDS feeds advertised via BonJour at: 192.168.29.30 port: 8080
+Failed login attempt from: ::ffff:192.168.29.70
+calibre server listening on [::]:8080
+OPDS feeds advertised via BonJour at: 192.168.29.30 port: 8080
+calibre server listening on [::]:8080
+OPDS feeds advertised via BonJour at: 192.168.29.30 port: 8080
+calibre server listening on [::]:8080
+OPDS feeds advertised via BonJour at: 192.168.29.30 port: 8080
+calibre server listening on [::]:8080
+OPDS feeds advertised via BonJour at: 192.168.29.30 port: 8080
+calibre server listening on [::]:8080
+OPDS feeds advertised via BonJour at: 192.168.29.30 port: 8080
+calibre server listening on [::]:8080
+OPDS feeds advertised via BonJour at: 192.168.29.30 port: 8080

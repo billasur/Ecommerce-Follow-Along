@@ -1,0 +1,33 @@
+{
+  "entries": {
+    "23ef4fa13edc36334ad8ae633a8171815d9bfb0d": [
+      {
+        "path": "c1-r8wdddjd",
+        "id": "IlAASsw7WYbVFTIfrmqAc3",
+        "status": "finished",
+        "mtime": 1714449393.6910503,
+        "atime": 1714449393.6910503,
+        "key": "6818007a52b9698697371f8207846330e423904a",
+        "file_mtime": 1714449406.6931598,
+        "file_size": 1154935,
+        "cache_size": 3054547,
+        "book_path": "/home/billasur/Calibre Library/Wheelan, Charles/Naked Statistics_ Stripping the Dread from the Data (2)/Naked Statistics_ Stripping the Dread from - Wheelan, Charles.epub"
+      }
+    ],
+    "2838d3ac3bd987d87a94ae6f18d7e918115c7a8e": [
+      {
+        "path": "c1-6pcinw2x",
+        "id": "4MhcuMxSNSgLHAIuhCkirF",
+        "status": "finished",
+        "mtime": 1715360268.997692,
+        "atime": 1715360268.997692,
+        "key": "49252a9c547db873a47ba82619506bc984edcfb4",
+        "file_mtime": 1715360676.433121,
+        "file_size": 390487,
+        "cache_size": 1079532,
+        "book_path": "/home/billasur/Calibre Library/Robert B. Cialdini PhD/Influence_ The Psychology of Persuasion (Collins Business Essentials) (183)/Influence_ The Psychology of Persuasion (C - Robert B. Cialdini PhD.epub"
+      }
+    ]
+  },
+  "last_clear_at": 1715360269.7895072
+}
